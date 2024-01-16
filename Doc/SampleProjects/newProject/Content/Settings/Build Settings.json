@@ -1,0 +1,50 @@
+{
+	"ID": "8b20fe07412345937f984d94cc96b805",
+	"TypeName": "FlaxEditor.Content.Settings.BuildSettings",
+	"EngineBuild": 6407,
+	"Data": {
+	"MaxAssetsPerPackage": 4096,
+	"MaxPackageSizeMB": 1024,
+	"ContentKey": 0,
+	"ForDistribution": false,
+	"SkipPackaging": false,
+	"AdditionalAssets": null,
+	"AdditionalScenes": null,
+	"AdditionalAssetFolders": null,
+	"ShadersNoOptimize": false,
+	"ShadersGenerateDebugData": false,
+	"SkipDefaultFonts": false,
+	"SkipDotnetPackaging": false,
+	"SkipUnusedDotnetLibsPackaging": true,
+	"Presets": [
+		{
+			"Name": "Development",
+			"Targets": [
+				{
+					"Name": "Windows 64bit",
+					"Output": "Output\\Win64",
+					"Platform": 2,
+					"Mode": 1,
+					"CustomDefines": null,
+					"PreBuildAction": null,
+					"PostBuildAction": null
+				}
+			]
+		},
+		{
+			"Name": "Release",
+			"Targets": [
+				{
+					"Name": "Windows 64bit",
+					"Output": "Output\\Win64",
+					"Platform": 2,
+					"Mode": 2,
+					"CustomDefines": null,
+					"PreBuildAction": null,
+					"PostBuildAction": null
+				}
+			]
+		}
+	]
+}
+}

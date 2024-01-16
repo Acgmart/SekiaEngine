@@ -1,0 +1,18 @@
+{
+	"ID": "1e65fc284bd3b5c6d5cebab155394884",
+	"TypeName": "FlaxEditor.Content.Settings.WindowsPlatformSettings",
+	"EngineBuild": 6407,
+	"Data": {
+	"WindowMode": 0,
+	"ScreenWidth": 1280,
+	"ScreenHeight": 720,
+	"ResizableWindow": false,
+	"RunInBackground": false,
+	"ForceSingleInstance": false,
+	"OverrideIcon": null,
+	"SupportDX12": false,
+	"SupportDX11": true,
+	"SupportDX10": false,
+	"SupportVulkan": false
+}
+}
